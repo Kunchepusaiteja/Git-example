@@ -3,6 +3,5 @@ class Code{
         System.out.println("Hello World");
         System.out.println("First revert");
         System.out.println(10+20+30);
-        System.out.println("Saiteja kunchepu");
     }
 }
